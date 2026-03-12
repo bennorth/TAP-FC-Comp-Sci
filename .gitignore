@@ -11,3 +11,4 @@ pascal/X4_random_number
 pascal/arrays/*.o
 pascal/arrays/array_1
 pascal/arrays/array_2
+pascal/arrays/array_palindrome_test
