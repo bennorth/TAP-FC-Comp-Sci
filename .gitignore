@@ -1,0 +1,10 @@
+pascal/*.o
+pascal/Q1_sum_naturals
+pascal/Q2_evens_odds
+pascal/Q3_doubling_counted
+pascal/Q3_doubling_indexed
+pascal/Q3_doubling_w_function
+pascal/X1_is_even_function
+pascal/X2_is_even_function
+pascal/X3_function_many_params
+pascal/X4_random_number
