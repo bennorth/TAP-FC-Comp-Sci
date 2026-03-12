@@ -33,4 +33,12 @@ Begin
   WriteLn('You entered:');
   For j := 1 To nEntries Do
     WriteLn(j, ' : ', Numbers[j]);
+
+  // In class the following block of code was instead
+  // of the previous one, but I've kept them both
+  // here in this example.  Use "DownTo" if you want
+  // your "for" loop to count downwards.
+  WriteLn('In reverse order:');
+  For j := nEntries Downto 1 Do
+    WriteLn(j, ' : ', Numbers[j]);
 End.
