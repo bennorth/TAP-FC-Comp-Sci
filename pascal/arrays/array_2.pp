@@ -17,6 +17,8 @@ Begin
   i := 1;
   Repeat
     Begin
+      // Read into a "char"-type variable and then
+      // assign the array element from that variable.
       ReadLn(ch1);
       Letters[i] := ch1;
       i := i + 1;
