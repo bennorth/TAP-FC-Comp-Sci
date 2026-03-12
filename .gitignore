@@ -8,3 +8,6 @@ pascal/X1_is_even_function
 pascal/X2_is_even_function
 pascal/X3_function_many_params
 pascal/X4_random_number
+pascal/arrays/*.o
+pascal/arrays/array_1
+pascal/arrays/array_2
