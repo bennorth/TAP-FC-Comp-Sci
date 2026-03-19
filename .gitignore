@@ -12,3 +12,4 @@ pascal/arrays/*.o
 pascal/arrays/array_1
 pascal/arrays/array_2
 pascal/arrays/array_palindrome_test
+pascal/arrays/array_palindrome_alt
