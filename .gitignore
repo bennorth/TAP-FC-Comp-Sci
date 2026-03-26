@@ -19,3 +19,5 @@ pascal/arrays/array_bubble_sort_alt
 pascal/arrays/is_prime_to_function
 pascal/arrays/array_prefix_w_functions
 pascal/arrays/array_bubble_sort_chars
+pascal/arrays/arrays_merge
+pascal/arrays/arrays_merge_alt
